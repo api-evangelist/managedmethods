@@ -1,0 +1,56 @@
+{
+    "name": "ManagedMethods",
+    "description": "ManagedMethods makes cloud security easy with tools that provide visibility and control of Google G Suite, Office 365 and many other popular cloud apps.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2953-managedmethods-inc.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/managedmethods\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ManagedMethods",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2953-managedmethods-inc.jpg",
+            "humanURL": "http:\/\/managedmethods.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/managedmethods-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/managed-methods"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/organization\/managed-methods"
+        },
+        {
+            "type": "Email",
+            "url": "info@managedmethods.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@managedmethods.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/managedmethods"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/managedmethods.com\/"
+        }
+    ]
+}
